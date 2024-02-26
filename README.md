@@ -10,6 +10,7 @@
 - [Speaker Diarization](https://docs.nvidia.com/deeplearning/nemo/user-guide/docs/en/main/asr/speaker_diarization/intro.html)
 - [Notebooks](https://github.com/NVIDIA/NeMo/tree/main/tutorials/speaker_tasks)
 ### pyannote
+>pyannote.audio is an open-source toolkit written in Python for speaker diarization. Based on PyTorch machine learning framework, it comes with state-of-the-art pretrained models and pipelines, ?that can be further finetuned to your own data for even better performance.
 - [Github](https://github.com/pyannote/pyannote-audio)
 
 ## Datasets
