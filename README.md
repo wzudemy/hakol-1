@@ -8,4 +8,5 @@
 - [Deep-dive into Nemo : How to efficiently tune a speaker diarization pipeline ?](https://lajavaness.medium.com/deep-dive-into-nemo-how-to-efficiently-tune-a-speaker-diarization-pipeline-d6de291302bf)
 
 ### Nvidia Nemo
-- [Speaker Diarization](https://github.com/NVIDIA/NeMo/blob/main/tutorials/speaker_tasks/Speaker_Identification_Verification.ipynb)
+- [Speaker Diarization](https://docs.nvidia.com/deeplearning/nemo/user-guide/docs/en/main/asr/speaker_diarization/intro.html)
+- [Notebooks](https://github.com/NVIDIA/NeMo/tree/main/tutorials/speaker_tasks)
