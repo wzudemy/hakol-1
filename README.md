@@ -10,3 +10,6 @@
 ### Nvidia Nemo
 - [Speaker Diarization](https://docs.nvidia.com/deeplearning/nemo/user-guide/docs/en/main/asr/speaker_diarization/intro.html)
 - [Notebooks](https://github.com/NVIDIA/NeMo/tree/main/tutorials/speaker_tasks)
+
+### Datasets
+- [Moviesoundclips.Net](http://www.moviesoundclips.net/)
