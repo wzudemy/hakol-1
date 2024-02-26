@@ -7,6 +7,7 @@
 
 ## Frameworks
 ### Nvidia Nemo
+>NVIDIA NeMo™ is an end-to-end, cloud-native framework to build, customize, and deploy generative AI models anywhere. It includes training and inferencing frameworks, guardrailing toolkits, data curation tools, and pretrained models, offering enterprises an easy, cost-effective, and fast way to adopt generative AI.
 - [Speaker Diarization](https://docs.nvidia.com/deeplearning/nemo/user-guide/docs/en/main/asr/speaker_diarization/intro.html)
 - [Notebooks](https://github.com/NVIDIA/NeMo/tree/main/tutorials/speaker_tasks)
 ### pyannote
