@@ -1,7 +1,7 @@
 # hakol
 
 ## YouTube
-- [MultiSpeaker whisper](https://youtu.be/SAIsk0i7KgU?si=84A7sOochbEUZj1R
+- [MultiSpeaker whisper](https://youtu.be/SAIsk0i7KgU?si=84A7sOochbEUZj1R)
 
 ## Medium
 
