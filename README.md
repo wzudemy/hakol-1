@@ -16,3 +16,9 @@
 
 ## Datasets
 - [Moviesoundclips.Net](http://www.moviesoundclips.net/)
+
+## Evaluation
+- [dscore]https://github.com/nryant/dscore?tab=readme-ov-file#rttm
+
+## File Formats
+- [RTTM](https://github.com/nryant/dscore?tab=readme-ov-file#rttm) 
