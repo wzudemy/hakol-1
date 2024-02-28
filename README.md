@@ -5,6 +5,9 @@
 - Thoughts:
   - MF cl
   - Noise cl
+ 
+## papers with code
+- [ESPnet: end-to-end speech processing toolkit](https://github.com/espnet/espnet)
 
 ## YouTube
 - [MultiSpeaker whisper](https://youtu.be/SAIsk0i7KgU?si=84A7sOochbEUZj1R)
