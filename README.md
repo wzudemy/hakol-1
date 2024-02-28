@@ -28,6 +28,7 @@
 
 ## Datasets
 - [Moviesoundclips.Net](http://www.moviesoundclips.net/)
+- [The VoxCeleb2 Dataset](https://www.robots.ox.ac.uk/~vgg/data/voxceleb/vox2.html)
 
 ## Evaluation
 - [dscore](https://github.com/nryant/dscore)
