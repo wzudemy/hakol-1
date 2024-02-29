@@ -25,6 +25,8 @@
 ### pyannote
 >pyannote.audio is an open-source toolkit written in Python for speaker diarization. Based on PyTorch machine learning framework, it comes with state-of-the-art pretrained models and pipelines, ?that can be further finetuned to your own data for even better performance.
 - [Github](https://github.com/pyannote/pyannote-audio)
+### noise remove
+- [remove-noise-from-audio](https://medium.com/@devesh_kumar/how-to-remove-noise-from-audio-in-less-than-10-seconds-8a1b31a5143a)
 
 ## Datasets
 - [Moviesoundclips.Net](http://www.moviesoundclips.net/)
