@@ -3,7 +3,8 @@
 ## chalenge
 - [Video](https://rafaelcoil.sharepoint.com/sites/-2024_MSTEAMS/Shared%20Documents/General/Recordings/%D7%94%D7%9B%D7%9C%20%D7%91%D7%A7%D7%95%D7%9C%20WEBINAR-20240228_142941-Meeting%20Recording.mp4?web=1&referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view.view&isSPOFile=1)
 - Thoughts:
-  - Features: Gender/Language/Type ofNoise
+  - Features: Gender/Language/Type of Noise
+  - Finetune Nemo
   
  
   ![image](https://github.com/wzeyal/hakol/assets/64967130/0a12b4eb-00c1-46f6-aefd-8b272533adaf)
