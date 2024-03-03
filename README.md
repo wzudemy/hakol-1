@@ -6,6 +6,9 @@
   - MF cl
   - Noise cl
  
+  ![image](https://github.com/wzeyal/hakol/assets/64967130/0a12b4eb-00c1-46f6-aefd-8b272533adaf)
+
+ 
 ## udemy
 - [Speaker Recognition Course Slides](https://drive.google.com/drive/folders/1BDuu5gkTSDaLtYPHMUM7pVIyfogozVj_?usp=sharing)
 - 
