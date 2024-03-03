@@ -7,7 +7,8 @@
   - Noise cl
  
 ## udemy
-- [Speaker Recognition Course Slides](https://drive.google.com/drive/folders/1BDuu5gkTSDaLtYPHMUM7pVIyfogozVj_?usp=drive_link)
+- [Speaker Recognition Course Slides](https://drive.google.com/drive/folders/1BDuu5gkTSDaLtYPHMUM7pVIyfogozVj_?usp=sharing)
+- 
  
 ## papers with code
 - [ESPnet: end-to-end speech processing toolkit](https://github.com/espnet/espnet)
