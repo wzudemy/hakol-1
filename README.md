@@ -1,10 +1,13 @@
-# hakol
+# hakol - speaker recognition
 
 ## chalenge
 - [Video](https://rafaelcoil.sharepoint.com/sites/-2024_MSTEAMS/Shared%20Documents/General/Recordings/%D7%94%D7%9B%D7%9C%20%D7%91%D7%A7%D7%95%D7%9C%20WEBINAR-20240228_142941-Meeting%20Recording.mp4?web=1&referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view.view&isSPOFile=1)
 - Thoughts:
   - MF cl
   - Noise cl
+ 
+## udemy
+- [Speaker Recognition Course Slides](https://drive.google.com/drive/folders/1BDuu5gkTSDaLtYPHMUM7pVIyfogozVj_?usp=drive_link)
  
 ## papers with code
 - [ESPnet: end-to-end speech processing toolkit](https://github.com/espnet/espnet)
