@@ -33,7 +33,10 @@
 - [The VoxCeleb2 Dataset](https://www.robots.ox.ac.uk/~vgg/data/voxceleb/vox2.html)
 
 ## Evaluation
-- [dscore](https://github.com/nryant/dscore)
+- TBD
 
-## File Formats
-- [RTTM](https://github.com/nryant/dscore?tab=readme-ov-file#rttm) 
+## Utilites
+- [SoX](https://sourceforge.net/projects/sox)
+  > SoX is the Swiss Army Knife of sound processing utilities. It can convert audio files to other popular audio file types and also apply sound effects and filters during the conversion.
+- [Audacity](https://www.audacityteam.org/)
+  > Audacity is the world's most popular audio editing and recording app
