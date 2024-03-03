@@ -15,7 +15,7 @@
 - 
  
 ## papers with code
-- [ESPnet: end-to-end speech processing toolkit](https://github.com/espnet/espnet)
+- [Speaker Recognition](https://paperswithcode.com/task/speaker-recognition)
 
 ## Frameworks
 ### Nvidia Nemo
