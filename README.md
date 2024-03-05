@@ -28,6 +28,12 @@
 >NVIDIA NeMo™ is an end-to-end, cloud-native framework to build, customize, and deploy generative AI models anywhere. It includes training and inferencing frameworks, guardrailing toolkits, data curation tools, and pretrained models, offering enterprises an easy, cost-effective, and fast way to adopt generative AI.
 - [Speaker Recognition](https://docs.nvidia.com/deeplearning/nemo/user-guide/docs/en/main/asr/speaker_recognition/intro.html)
 - [Notebooks](https://github.com/NVIDIA/NeMo/tree/main/tutorials/speaker_tasks)
+- [Inference](https://catalog.ngc.nvidia.com/orgs/nvidia/teams/nemo/models/speakerverification_speakernet)
+- [InferenceGitHub](https://catalog.ngc.nvidia.com/orgs/nvidia/teams/nemo/models/speakerverification_speakernet)
+
+### HuggingFace
+- [speaker_ver](https://huggingface.co/models?search=speaker_ver)
+  
 ### pyannote
 >pyannote.audio is an open-source toolkit written in Python for speaker diarization. Based on PyTorch machine learning framework, it comes with state-of-the-art pretrained models and pipelines, ?that can be further finetuned to your own data for even better performance.
 - [Github](https://github.com/pyannote/pyannote-audio)
