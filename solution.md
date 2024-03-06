@@ -1,31 +1,30 @@
-# Chalenge
+# Challenge
 ## Input
-- Dataset of ~50,000 audio files with tagging of:
-  - audio file
-  - speaker
-  - language
-  - noise (comm/backgroud/clean)
-- Validation set of 1,000 records
-  - anchor audio file
-  - anchor noise (comm/backgroud/clean)
-  - group of audio files from the laguage of the anchor
- 
-## output
-- for each validation record find which file (threre is preciceliy one) that is from the speaker as the anchor
+- Dataset of approximately 50,000 audio files tagged with:
+  - Audio file
+  - Speaker
+  - Language
+  - Noise (Communication/Background/Clean)
+- Validation set of 1,000 records:
+  - Anchor audio file
+  - Anchor noise (Communication/Background/Clean)
+  - Group of audio files from the language of the anchor
 
+## Output
+- For each validation record, find the file (there is precisely one) that matches the speaker as the anchor.
 
-## Solution proposal:
+## Solution Proposal:
 
-1. [optional] clean the input audio files
-   - regardless of the noise
-   - depends on the noise
-2. [optional] sperate the files to different languages
-3. [optional] add external files for each language from external resources:
+1. [Optional] Clean the input audio files:
+   - Irrespective of the noise
+   - Based on the noise
+2. [Optional] Separate the files into different languages.
+3. [Optional] Add external files for each language from external resources:
    - [OpenSLR](https://openslr.org/resources.php)
-5. Fine tune a nemo model (titanet-small/large/ecapa) using the notebook with the data
-   - [Speaker_Recogniton_Verification.ipynb](https://colab.research.google.com/github/NVIDIA/NeMo/blob/main/tutorials/speaker_tasks/Speaker_Identification_Verification.ipynb)
-   - [Nvidia Nemo models](https://catalog.ngc.nvidia.com/models?filters=&orderBy=scoreDESC&query=speaker%20recognition)
-     - [titanet_small](https://catalog.ngc.nvidia.com/orgs/nvidia/teams/nemo/models/titanet_small)
-     - [titanet_large](https://catalog.ngc.nvidia.com/orgs/nvidia/teams/nemo/models/titanet_large)
-     - [ecapa_tdnn](https://catalog.ngc.nvidia.com/orgs/nvidia/teams/nemo/models/ecapa_tdnn)
+5. Fine-tune a NeMo model (TitanNet-Small/Large/ECAPA) using the notebook with the data:
+   - [Speaker_Recognition_Verification.ipynb](https://colab.research.google.com/github/NVIDIA/NeMo/blob/main/tutorials/speaker_tasks/Speaker_Identification_Verification.ipynb)
+   - [NVIDIA NeMo models](https://catalog.ngc.nvidia.com/models?filters=&orderBy=scoreDESC&query=speaker%20recognition)
+     - [TitanNet-Small](https://catalog.ngc.nvidia.com/orgs/nvidia/teams/nemo/models/titanet_small)
+     - [TitanNet-Large](https://catalog.ngc.nvidia.com/orgs/nvidia/teams/nemo/models/titanet_large)
+     - [ECAPA-TDNN](https://catalog.ngc.nvidia.com/orgs/nvidia/teams/nemo/models/ecapa_tdnn)
 6. TBD
