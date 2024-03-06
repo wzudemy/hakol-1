@@ -41,6 +41,7 @@ decision = speaker_model.verify_speakers('manners.wav','king.wav')
 
 ### HuggingFace
 - [speaker_ver](https://huggingface.co/models?search=speaker_ver)
+- [Finetune example](https://huggingface.co/pgwi/en_tr_titanet_large/tree/main)
   
 ### pyannote
 >pyannote.audio is an open-source toolkit written in Python for speaker diarization. Based on PyTorch machine learning framework, it comes with state-of-the-art pretrained models and pipelines, ?that can be further finetuned to your own data for even better performance.
