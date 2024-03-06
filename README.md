@@ -30,6 +30,15 @@
 - [Notebooks](https://github.com/NVIDIA/NeMo/tree/main/tutorials/speaker_tasks)
 - [InferenceGitHub](https://catalog.ngc.nvidia.com/orgs/nvidia/teams/nemo/models/speakerverification_speakernet)
 
+```
+!pip install Cython
+!pip install nemo_toolkit['all']
+
+import nemo.collections.asr as nemo_asr
+speaker_model = nemo_asr.models.EncDecSpeakerLabelModel.from_pretrained(model_name='titanet_small')
+decision = speaker_model.verify_speakers('manners.wav','king.wav')
+```
+
 ### HuggingFace
 - [speaker_ver](https://huggingface.co/models?search=speaker_ver)
   
