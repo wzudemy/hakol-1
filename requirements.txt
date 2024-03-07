@@ -1,0 +1,8 @@
+SpeechRecognition
+tqdm
+pybind11
+Cython
+#nemo_toolkit[all]
+git+https://github.com/openai/whisper
+
+
