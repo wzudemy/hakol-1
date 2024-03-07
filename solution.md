@@ -9,6 +9,7 @@
   - Anchor audio file
   - Anchor noise (Communication/Background/Clean)
   - Group of audio files from the language of the anchor
+  - Gropu noise
 
 ## Output
 - For each validation record, find the file (there is precisely one) that matches the speaker as the anchor.
@@ -17,8 +18,9 @@
 1. [Optional] Clean the input audio files:
    - Irrespective of the noise
    - Based on the noise
-2. [Optional] Separate the files into different languages.
-3. [Optional] Add external files for each language from external resources:
+2. [Optional] Separate the files into different languages
+3. [Optional] Separate the files into different noise
+4. [Optional] Add external files for each language from external resources:
    - [OpenSLR](https://openslr.org/resources.php)
    - [commonvoice](https://commonvoice.mozilla.org/en/datasets)
 5. Fine-tune a NeMo model (TitanNet-Small/Large/ECAPA) using the notebook with the data (for each langague ? )
@@ -37,4 +39,5 @@
    - Hyper parameters
 10. Infernce:
    - [Optional] Detect the Language
+   - [Optinoal] choose the approtiate noise model
    - Perform the model fit
