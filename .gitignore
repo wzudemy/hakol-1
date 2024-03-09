@@ -160,3 +160,11 @@ cython_debug/
 #.idea/
 /**venv*/
 /.idea
+data/
+nemo_experiments/
+conf/
+/notebooks/=0.10.0
+/notebooks/embeddings_manifest.json
+
+*.pkl
+notebooks/scripts
