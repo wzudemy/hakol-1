@@ -86,7 +86,7 @@ def main():
     accuracy = calculate_accuracy(pre_processing_df)
     print("Accuracy: {:.2f}%".format(accuracy))
     
-    
+torch.no_grad()    
 def calc_score(embs1, embs2):
     # Length Normalize
     X = embs1 / torch.linalg.norm(embs1)
