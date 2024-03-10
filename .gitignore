@@ -168,3 +168,6 @@ conf/
 
 *.pkl
 notebooks/scripts
+arabic/*
+turkey/*
+notebooks/pretrained_models/*
