@@ -50,10 +50,9 @@ decision = speaker_model.verify_speakers('manners.wav','king.wav')
 - [remove-noise-from-audio](https://medium.com/@devesh_kumar/how-to-remove-noise-from-audio-in-less-than-10-seconds-8a1b31a5143a)
 
 ## Datasets
-- [Moviesoundclips.Net](http://www.moviesoundclips.net/)
-- [The VoxCeleb2 Dataset](https://www.robots.ox.ac.uk/~vgg/data/voxceleb/vox2.html)
 - [OpenSlr](https://openslr.org/index.html)
-- 
+- [commonvoice](https://commonvoice.mozilla.org/en/datasets)
+- [Moviesoundclips.Net](http://www.moviesoundclips.net/)
 
 ## Evaluation
 - TBD
