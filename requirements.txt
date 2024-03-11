@@ -1,11 +1,9 @@
 # python3.10
-# nvidia driver 535, propriety, tested
-# cuda 12.2
-
-
 # sodu apt-get install sox libsndfile1 ffmpeg
 Cython
 nemo_toolkit[all] # or nemo_toolkit[all]
-torch==2.1.0 --index-url https://download.pytorch.org/whl/cu121
-torchvision==0.16.0 --index-url https://download.pytorch.org/whl/cu121
-torchaudio==2.1.0 --index-url https://download.pytorch.org/whl/cu121
+
+# for cuda 12.2 and nvidia driver 535, propriety, tested
+# torch==2.1.0 --index-url https://download.pytorch.org/whl/cu121
+# torchvision==0.16.0 --index-url https://download.pytorch.org/whl/cu121
+# torchaudio==2.1.0 --index-url https://download.pytorch.org/whl/cu121
