@@ -18,7 +18,7 @@
  
 ## udemy
 - [Speaker Recognition Course Slides](https://drive.google.com/drive/folders/1BDuu5gkTSDaLtYPHMUM7pVIyfogozVj_?usp=sharing)
-- 
+
  
 ## papers with code
 - [Speaker Recognition](https://paperswithcode.com/task/speaker-recognition)
