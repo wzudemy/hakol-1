@@ -1,9 +1,9 @@
 import os
 import pandas as pd
-import speech_recognition as sr
+# import speech_recognition as sr
 from tqdm import tqdm
 tqdm.pandas()
-import whisper
+# import whisper
 import wave
 import librosa
 from scipy.io import wavfile
@@ -12,8 +12,8 @@ import soundfile as sf
 import torch
 
 
-model = whisper.load_model("base")
-selected_keys = {'ru', 'tr', 'ar'}
+# model = whisper.load_model("base")
+# selected_keys = {'ru', 'tr', 'ar'}
 
 def detect_language(audio_file):
     # load audio and pad/trim it to fit 30 seconds
@@ -117,5 +117,13 @@ def verify_speakers(spk_model, anchor, group_file_list):
     return torch.stack(scores).argmax().item()
 
 
+
+def detect_lang():
+    langid_model = nemo_asr.models.EncDecSpeakerLabelModel.from_pretrained(model_name="langid_ambernet")
+    langid_model.get_label('/home/eyal/git/hakol/notebooks/data/challenge/wav_files_subset/0403581.wav')
+    # langid_model.batch_inference()
+
+
 if __name__ == "__main__":
-    main()
+    # main()
+    speech_enhancemnets()

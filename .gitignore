@@ -172,3 +172,4 @@ arabic/*
 turkey/*
 notebooks/pretrained_models/*
 finetune_data/*
+experiments/ngc_models/*
